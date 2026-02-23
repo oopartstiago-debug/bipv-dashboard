@@ -1,10 +1,7 @@
 streamlit
 pandas
 numpy
-pvlib
-plotly
+matplotlib
 requests
-pytz
-joblib
-xgboost
-gdown
+pvlib
+urllib3
