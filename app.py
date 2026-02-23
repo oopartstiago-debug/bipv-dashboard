@@ -23,7 +23,7 @@ import gdown
 # 1. 통합 환경 설정
 # ==============================================================================
 # ★ 여기에 구글 드라이브 파일 ID를 입력하세요 ★
-GDRIVE_FILE_ID = "여기에_파일_ID_입력"
+GDRIVE_FILE_ID = "bipv_data"
 
 KMA_SERVICE_KEY = "c6ffb5b520437f3e6983a55234e73701fce509cbb3153c9473ebbe5756a1da00"
 LAT, LON, TZ = 37.5665, 126.9780, "Asia/Seoul"
